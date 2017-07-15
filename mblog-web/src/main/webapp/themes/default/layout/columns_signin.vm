@@ -6,6 +6,7 @@
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="shortcut icon" href="../../../assets/images/logo/favicon.ico" />
     <title>$!{site_name} - 登录</title>
     <meta name="keywords" content="mtons,$!{site_keywords}">
     <meta name="description" content="$!{site_description}">
